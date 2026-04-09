@@ -34,3 +34,16 @@ print(f"Seu IMC é: {imc:.3f}")
 print("O tipo da variável altura é: " + str(type(altura))) 
 print("O tipo da variável peso é: " + str(type(peso))) 
 print("O tipo da variável imc é: " + str(type(imc)))
+
+### ========== Variáveis do tipo boolean (bool) verdadeiro ou falso ==========
+print("\nVariáveis do tipo boolean (bool) verdadeiro ou falso:")
+
+casado = True
+
+if casado:
+    print("Você é casado.")
+else:    
+    print("Você não é casado.")
+
+print(f"Seu casamento é: {casado}")
+print("O tipo da variável casado é: " + str(type(casado)))
