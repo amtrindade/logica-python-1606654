@@ -13,6 +13,7 @@ def media_lista(lista):
 
 valor01 = int(input("Digite o primeiro valor: "))
 valor02 = int(input("Digite o segundo valor: "))
+
 lista = [455, 300, 150, 200, 1002]
 
 resultado = calcular_soma(valor01, valor02)
