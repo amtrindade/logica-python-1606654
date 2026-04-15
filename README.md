@@ -24,29 +24,37 @@ Cada arquivo foi separado por assunto para facilitar o estudo passo a passo.
 
 Os exemplos estão no diretório src:
 
-- helloworld.py: leitura de um nome com input e exibição de mensagem com f-string
-- valorhora.py: entrada de salário e horas trabalhadas para calcular o valor da hora
-- variaveis.py: exemplos com string, int, float e bool, além de verificação de tipo com type
-- operadores-logicos.py: uso de if, elif e else com operadores de comparação e operadores lógicos
-- maior-valor.py: comparação entre dois números para descobrir qual é o maior
-- loop-for.py: repetição com for e range
-- loop-while.py: repetição com while baseada em condição
-- loop-lista.py: percurso de listas, soma de valores e contagem de itens
-- funcoes.py: criação de funções para soma, média entre dois valores e média de uma lista
+- src/helloworld.py: leitura de um nome com input e exibição de mensagem com f-string
+- src/valorhora.py: entrada de salário e horas trabalhadas para calcular o valor da hora
+- src/variaveis.py: exemplos com string, int, float e bool, além de verificação de tipo com type
+- src/operadores-logicos.py: uso de if, elif e else com operadores de comparação e operadores lógicos
+- src/maior-valor.py: comparação entre dois números para descobrir qual é o maior
+- src/velocidademaxima.py: validação de velocidade com base no limite permitido
+- src/chute-valores.py: lógica de tentativa com comparações para acertar um valor
+- src/loop-for.py: repetição com for e range
+- src/loop-while.py: repetição com while baseada em condição
+- src/loop-lista.py: percurso de listas, soma de valores e contagem de itens
+- src/soma-multiplica-lista.py: operações de soma e multiplicação com elementos de lista
+- src/funcoes.py: criação de funções para soma, média entre dois valores e média de uma lista
+- src/fatorial.py: cálculo de fatorial com abordagem iterativa e recursiva
 
 ## Ordem sugerida de estudo
 
 Se a ideia for aprender em sequência, esta é uma boa ordem:
 
-1. helloworld.py
-2. valorhora.py
-3. variaveis.py
-4. operadores-logicos.py
-5. maior-valor.py
-6. loop-for.py
-7. loop-while.py
-8. loop-lista.py
-9. funcoes.py
+1. src/helloworld.py
+2. src/valorhora.py
+3. src/variaveis.py
+4. src/operadores-logicos.py
+5. src/maior-valor.py
+6. src/velocidademaxima.py
+7. src/chute-valores.py
+8. src/loop-for.py
+9. src/loop-while.py
+10. src/loop-lista.py
+11. src/soma-multiplica-lista.py
+12. src/funcoes.py
+13. src/fatorial.py
 
 Essa sequência começa com entrada e saída de dados, passa por tipos e decisões, e depois avança para repetição e reaproveitamento de código com funções.
 
